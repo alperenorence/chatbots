@@ -8,3 +8,7 @@ This playground allows you to create a chatbot. In first part, you can learn bas
 
 * Download and unzip the Chatbots.playgroundbook.zip file.
 * Open Chatbots.playgroundbook in Swift Playgrounds. (macOS recommed)
+
+# Credits
+
+* I used this [blog post](https://www.iosapptemplates.com/blog/swiftui/swiftui-chat) to create Chat View.
