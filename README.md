@@ -11,4 +11,6 @@ This playground allows you to create a chatbot. In first part, you can learn bas
 
 ## Credits
 
-* I used this [blog post](https://www.iosapptemplates.com/blog/swiftui/swiftui-chat) to create Chat View.
+* I used this [blog post](https://www.iosapptemplates.com/blog/swiftui/swiftui-chat) to create chat view of this playground.
+
+Copyright © Alperen Örence
