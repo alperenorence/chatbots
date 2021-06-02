@@ -1,6 +1,6 @@
 # Chatbots
 
-My WWDC21 Swift Student Challenge project.
+My WWDC21 Swift Student Challenge project. (Accepted)
 
 This playground allows you to create a chatbot. In first part, you can learn basics about my playground, edit a chatbot's details (name and profile picture) and add specific questions to chatbots. In second part, you can create a chatbot with custom name, profile picture and questions.
 
